@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm [Daniel]
-**and I'm a Data Scientist
+*and I'm a Data Scientist*
+
 ### What I'm Currently Focused On:
 
 *Building and understanding various Machine Learning models and their real-world use-cases.
