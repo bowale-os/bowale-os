@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Daniel]
 
-[![[Your LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-sobowale/)
+[![(https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-sobowale/)]
 
 **An aspiring Data Scientist**
 
