@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm [Daniel]
-
-[![(https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-sobowale/)]
-
-**An aspiring Data Scientist**
-
+**and I'm a Data Scientist
 ### What I'm Currently Focused On:
 
 *Building and understanding various Machine Learning models and their real-world use-cases.
