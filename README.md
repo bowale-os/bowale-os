@@ -3,7 +3,7 @@
 
 ### What I'm Currently Focused On:
 
-*Building and understanding various Machine Learning models and their real-world use-cases.
+* Building and understanding various Machine Learning models and their real-world use-cases.
 * Developing interactive and user-friendly front-end experiences, starting with core JavaScript and progressing to React.
 * Conducting comprehensive Data Analysis and creating insightful visualizations using tools like Python.
 
