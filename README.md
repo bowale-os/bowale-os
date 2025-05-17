@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Daniel]
+### Hi there 👋 I'm Daniel
 *and I'm a Data Scientist*
 
 ### What I'm Currently Focused On:
