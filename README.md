@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Daniel
-*and I'm a Data Scientist*
+*and I'm a Software Engineer (Python Backend) and Data Scientist*
 
 ### What I'm Currently Focused On:
 
