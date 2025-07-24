@@ -11,10 +11,10 @@
 ### My Skills:
 
 **Languages:**
-`Python`, `JavaScript`, `SQL`, `HTML/CSS`
+`Python`, `SQL`, `HTML/CSS`
 
 **Frameworks/Libraries:**
-`Flask`, `statsmodels`, `scikit-learn`, `tailwind-css`, `matplotlib`, `seaborn`
+`Flask`, `statsmodels`, `scikit-learn`, `matplotlib`, `seaborn`
 
 **Tools:**
 `Git, VSCode`, `Jupyter Notebook`
