@@ -1,6 +1,6 @@
 # Daniel Sobowale
 
-# Who I am??
+## Who I am??
 
 
 I'm learning to build software that makes living better, and I'm currently exploring AI engineering, Mobile Development and Start-ups.
