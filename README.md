@@ -7,7 +7,7 @@ I'm learning to build software that makes living better, and I'm currently explo
 I'm always open to build, shoot me an idea if you have one.
 
 
-# Notable stuff I've built
+## Notable stuff I've built
 - FixFisk: Attempted to fix Fisk's University suggestion tracking problem
 - GlowCart: Nigerian Solopreneurs don't have a catalog service, so I built one
 - Summa: I'm building a notifications manager, help people declutter their attention space
