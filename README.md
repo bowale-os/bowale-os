@@ -1,21 +1,30 @@
-# 💫 About Me:
-Hey, I'm Daniel Sobowale. 
+# Daniel Sobowale
+
+# Who I am??
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sobowale) 
+I'm learning to build software that makes living better, and I'm currently exploring AI engineering, Mobile Development and Start-ups.
+I'm always open to build, shoot me an idea if you have one.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bowale-os&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bowale-os&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bowale-os&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bowale-os&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# Notable stuff I've built
+- FixFisk: Attempted to fix Fisk's University suggestion tracking problem
+- GlowCart: Nigerian Solopreneurs don't have a catalog service, so I built one
+- Summa: I'm building a notifications manager, help people declutter their attention space
+- CreditChain: People want credit advice from internet folks
+- AmazingSQL: Helps beginners learn SQL. Leetcode for SQL.
+- Briefly: Hear global news through audio, if you'd like..
+  
 
----
-[![](https://visitcount.itsvg.in/api?id=bowale-os&icon=0&color=0)](https://visitcount.itsvg.in)
+## Technology I build with
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Languages: Python, SQL, HTML, CSS, Java/Type Script, C++
+- Frameworks & platforms: React, Node.js, PostgreSQL, Docker, Supabase, MongoDB, Firebase, Express.js, Flask, FastAPI, Vercel....and other stuff..
+
+
+## Thoughts
+
+- Ulcer pain management: Thinkin about alleviation methods and procedures..
+- Dermotology services: Nigerian students do not have access to premium healthcare services. Actually, it's most Nigerians..
+- Startups, yeah
+- Theology..
